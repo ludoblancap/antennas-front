@@ -6,7 +6,7 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
-test trigger 3
+test trigger 4
 
 ## Running the application in dev mode
 
